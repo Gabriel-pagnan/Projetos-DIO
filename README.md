@@ -7,3 +7,5 @@ segundo projeto: jogo de nave feito em HTML, CSS, JavaScript e biblioteca jQuery
 
 terceiro projeto: jogo genius feito em HTML, JavaScript e CSS3 utilizando grid.
 
+quarto projeto: jogo shooter space feito com HTML, CSS e JavaScript
+
