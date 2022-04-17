@@ -7,5 +7,7 @@ segundo projeto: jogo de nave feito em HTML, CSS, JavaScript e biblioteca jQuery
 
 terceiro projeto: jogo genius feito em HTML, JavaScript e CSS3 utilizando grid.
 
-quarto projeto: jogo shooter space feito com HTML, CSS e JavaScript
+quarto projeto: jogo shooter space feito com HTML, CSS e JavaScript.
+
+último projeto do bootcamp Dio Orbi Web Games Developer: jogo do dinossauro semelhante ao do navegador, feito em HTML, CSS e JavaScript
 
